@@ -3,28 +3,28 @@ Welcome to chelsycm's CIT 281 Portfolio
 Projects: 
 
   * Project 1-
-    * 
+    * https://github.com/chelsycm/cit281-p1.git
     * Worked with Command Line Interface, Visual Studio Code and Node.js. 
   
   * Project 2- 
-    *
+    * https://github.com/chelsycm/cit281-p2.git
     * Refactor the JavaScript program from project 1 to practice using git and practice refactoring. 
   
   * Project 3- 
-
+    * https://github.com/chelsycm/cit281-p3.git
     * Created a coinage code module that calculates the total value of coin objects. Worked with Fastify as well. 
   
   * Project 4- 
-
+   * https://github.com/chelsycm/cit281-p4.git
    * Created a REST API that worked with a "data" source of questions and answers. Used code modules and create a Node.js REST API. 
   
   * Project 5- 
-    * 
+    * https://github.com/chelsycm/cit281-p5.git
     * Coded and debugged a Monster Game using classes. Game is created with initial life values for the monster to be alive. When the game is running, each monster'
   life is drained by a random amount, this continues until all monsters die. 
    
   * Project 6- 
-    *
+    * https://github.com/chelsycm/cit281-p6.git
     * Coded 3 classes: shape class, rectangle class, and triangle class. 
   
   * Project 7- 
