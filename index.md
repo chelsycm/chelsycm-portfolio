@@ -45,7 +45,7 @@ Projects:
     * Practiced refactoring code, destructing an object, arrow functions, used for.. in and for .. of, and worked with node.js. 
   
   * Lab 4- 
-    * ![https://chelsycm.github.io/cit281-lab4/](https://chelsycm.github.io/cit281-lab4/)
+    * [https://chelsycm.github.io/cit281-lab4/](https://chelsycm.github.io/cit281-lab4/)
     * Created Fastify Node.js, Node Package Manager(npm), git repo, and fixed MIME error, test, and commit. 
   
   * Lab 5- 
