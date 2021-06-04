@@ -33,15 +33,15 @@ Projects:
   
  Labs:
   * Lab 1- 
-    * ![https://chelsycm.github.io/cit281-lab1/](https://chelsycm.github.io/cit281-lab1/)    
+    * [https://chelsycm.github.io/cit281-lab1/](https://chelsycm.github.io/cit281-lab1/)    
     * Practiced using software tools, terminal commands, keyboard shortcuts and created a Node.js server-side JavaScript file. 
   
   * Lab 2- 
-    * ![https://chelsycm.github.io/cit281-lab2/](https://chelsycm.github.io/cit281-lab2/)
+    * [https://chelsycm.github.io/cit281-lab2/](https://chelsycm.github.io/cit281-lab2/)
     * Worked with Git on my terminal. 
   
   * Lab 3- 
-    * ![https://chelsycm.github.io/cit281-lab3/](https://chelsycm.github.io/cit281-lab3/)
+    * [https://chelsycm.github.io/cit281-lab3/](https://chelsycm.github.io/cit281-lab3/)
     * Practiced refactoring code, destructing an object, arrow functions, used for.. in and for .. of, and worked with node.js. 
   
   * Lab 4- 
