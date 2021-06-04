@@ -65,5 +65,5 @@ Projects:
     * Created a file, installed Node.js, added fastify and fetched JSONPlaceholder data. 
   
   * Lab 9- 
-    * 
+    * [https://chelsycm.github.io/cit281-lab9/](https://chelsycm.github.io/cit281-lab9/)
     * Worked through the GitHub Learning Lab. 
