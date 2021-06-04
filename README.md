@@ -1,9 +1,7 @@
 Welcome to chelsycm's CIT 281 Portfolio
 
 Projects: 
-  Project 1- 
-  http://github.com - automatic!
-  [GitHub](http://github.com)
+  [Project 1]-(https://github.com/chelsycm/cit281-lab1.git)
   Worked with Command Line Interface, Visual Studio Code and Node.js. 
   
   Project 2- 
