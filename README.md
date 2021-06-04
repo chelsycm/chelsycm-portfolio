@@ -15,8 +15,8 @@ Projects:
     * Created a coinage code module that calculates the total value of coin objects. Worked with Fastify as well. 
   
   * Project 4- 
-   * https://github.com/chelsycm/cit281-p4.git
-   * Created a REST API that worked with a "data" source of questions and answers. Used code modules and create a Node.js REST API. 
+    * https://github.com/chelsycm/cit281-p4.git
+    * Created a REST API that worked with a "data" source of questions and answers. Used code modules and create a Node.js REST API. 
   
   * Project 5- 
     * https://github.com/chelsycm/cit281-p5.git
