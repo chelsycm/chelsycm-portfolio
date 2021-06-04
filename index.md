@@ -53,7 +53,7 @@ Projects:
     * Worked with Postman 
   
   * Lab 6- 
-    * 
+    * [https://chelsycm.github.io/cit281-lab6/](https://chelsycm.github.io/cit281-lab6/)
     * Joined GitHub. Created a file with classes. 
   
   * Lab 7- 
