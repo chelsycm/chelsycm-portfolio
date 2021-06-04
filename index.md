@@ -61,7 +61,7 @@ Projects:
     * Created GitHub organization, repository, coded a file and committed it to GitHub. 
   
   * Lab 8- 
-    * 
+    * [https://chelsycm.github.io/cit281-lab8/](https://chelsycm.github.io/cit281-lab8/)
     * Created a file, installed Node.js, added fastify and fetched JSONPlaceholder data. 
   
   * Lab 9- 
