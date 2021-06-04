@@ -33,7 +33,7 @@ Projects:
   
  Labs:
   * Lab 1- 
-    * https://github.com/chelsycm/cit281-lab1.git
+    * https://chelsycm.github.io/cit281-lab1/
     * Practiced using software tools, terminal commands, keyboard shortcuts and created a Node.js server-side JavaScript file. 
   
   * Lab 2- 
