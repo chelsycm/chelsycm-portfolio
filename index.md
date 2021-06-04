@@ -49,7 +49,7 @@ Projects:
     * Created Fastify Node.js, Node Package Manager(npm), git repo, and fixed MIME error, test, and commit. 
   
   * Lab 5- 
-    * 
+    * [https://chelsycm.github.io/cit281-lab5/](https://chelsycm.github.io/cit281-lab5/)
     * Worked with Postman 
   
   * Lab 6- 
