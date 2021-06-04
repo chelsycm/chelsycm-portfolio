@@ -57,7 +57,7 @@ Projects:
     * Joined GitHub. Created a file with classes. 
   
   * Lab 7- 
-    * 
+    * [https://chelsycm.github.io/cit281-lab7/](https://chelsycm.github.io/cit281-lab7/)
     * Created GitHub organization, repository, coded a file and committed it to GitHub. 
   
   * Lab 8- 
