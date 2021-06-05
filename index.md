@@ -24,7 +24,7 @@ Projects:
   life is drained by a random amount, this continues until all monsters die. 
    
   * Project 6- 
-    * 
+    * [https://chelsycm.github.io/cit281-p6/](https://chelsycm.github.io/cit281-p6/)
     * Coded 3 classes: shape class, rectangle class, and triangle class. 
   
   * Project 7- 
