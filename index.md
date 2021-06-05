@@ -3,7 +3,7 @@ Welcome to chelsycm's CIT 281 Portfolio
 Projects: 
 
   * Project 1-
-    * 
+    * [https://chelsycm.github.io/cit281-p1/](https://chelsycm.github.io/cit281-p1/)
     * Worked with Command Line Interface, Visual Studio Code and Node.js. 
   
   * Project 2- 
