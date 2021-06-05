@@ -19,7 +19,7 @@ Projects:
     * Created a REST API that worked with a "data" source of questions and answers. Used code modules and create a Node.js REST API. 
   
   * Project 5- 
-    * 
+    * [https://chelsycm.github.io/cit281-p5/](https://chelsycm.github.io/cit281-p5/)
     * Coded and debugged a Monster Game using classes. Game is created with initial life values for the monster to be alive. When the game is running, each monster'
   life is drained by a random amount, this continues until all monsters die. 
    
