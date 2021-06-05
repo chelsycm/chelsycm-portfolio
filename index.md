@@ -11,7 +11,7 @@ Projects:
     * Refactor the JavaScript program from project 1 to practice using git and practice refactoring. 
   
   * Project 3- 
-    *
+    * [https://chelsycm.github.io/cit281-p3/](https://chelsycm.github.io/cit281-p3/)
     * Created a coinage code module that calculates the total value of coin objects. Worked with Fastify as well. 
   
   * Project 4- 
