@@ -28,7 +28,7 @@ Projects:
     * Coded 3 classes: shape class, rectangle class, and triangle class. 
   
   * Project 7- 
-    *
+    * [https://chelsycm.github.io/cit281-p7/](https://chelsycm.github.io/cit281-p7/)
     * Create a portfolio on GitHub 
   
  Labs:
