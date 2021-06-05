@@ -7,7 +7,7 @@ Projects:
     * Worked with Command Line Interface, Visual Studio Code and Node.js. 
   
   * Project 2- 
-    * 
+    * [https://chelsycm.github.io/cit281-p2/](https://chelsycm.github.io/cit281-p2/)
     * Refactor the JavaScript program from project 1 to practice using git and practice refactoring. 
   
   * Project 3- 
